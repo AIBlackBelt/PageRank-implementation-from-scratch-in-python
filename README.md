@@ -44,7 +44,7 @@ Then parameters iterations, damping factors
 
 ![Alt text](/demo_images./para.png?raw=true "Reductible markov chain")
 
-The algorithm output is the pagerank values after learning from the R matrix, ranked from the highest to lowest 
+The algorithm outputs the pagerank values after learning from the R matrix, ranked from the highest to lowest 
 
 ![Alt text](/demo_images./ranke.png?raw=true "Reductible markov chain") 
 
