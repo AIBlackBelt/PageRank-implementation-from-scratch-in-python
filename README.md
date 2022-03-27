@@ -30,3 +30,24 @@ We apply the learning process to the following chain :
 
 run : python3 main.py
 
+The first input should be the number of states followed by ID's and initial pagerank values
+
+![Alt text](/demo_images./graphnodes.png?raw=true "Reductible markov chain") 
+
+Then the links between nodes
+
+![Alt text](/demo_images./edges1.png?raw=true "Reductible markov chain") 
+
+![Alt text](/demo_images./edges2.png?raw=true "Reductible markov chain")
+
+Then parameters iterations, damping factors
+
+![Alt text](/demo_images./para.png?raw=true "Reductible markov chain")
+
+The algorithm output is the pagerank values after learning from the R matrix, ranked from the highest to lowest 
+
+![Alt text](/demo_images./ranke.png?raw=true "Reductible markov chain") 
+
+
+
+
