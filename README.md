@@ -40,7 +40,7 @@ Then the links between nodes
 
 ![Alt text](/demo_images./edges2.png?raw=true "Reductible markov chain")
 
-Then parameters iterations, damping factors
+Then parameters iterations, damping factor
 
 ![Alt text](/demo_images./para.png?raw=true "Reductible markov chain")
 
